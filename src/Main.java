@@ -12,15 +12,7 @@ import java.io.*;
 import java.awt.*;
 import java.util.regex.*;
 
-/**
- * Illustrates how to use {@link gov.nasa.worldwind.render.PointPlacemark}. Also shows how to use a 2525 tactical
- * symbol as a placemark image.
- *
- * @see gov.nasa.worldwindx.examples.PlacemarkLabelEditing
- *
- * @author tag
- * @version $Id: Placemarks.java 2812 2015-02-17 21:00:43Z tgaskins $
- */
+
 public class Main extends ApplicationTemplate
 {
     public static class AppFrame extends ApplicationTemplate.AppFrame
